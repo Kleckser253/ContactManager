@@ -1,0 +1,27 @@
+﻿Vorname: Nizar
+Nachname: Gnibi
+
+Das Projekt wurde von mir alleinständig programmiert da meine mitschüler schon entweder eine gruppe hatten oder mich nicht aufnehmen wollten. Was nicht schlimm ist ^^.
+Jedoch würde ich bitten dies bei der Bewertung miteinzubeziehen.
+
+Was funktioniert:
+▪ Erfassung von Mitarbeitern und Kunden
+▪ Mutieren von Mitarbeitern und Kunden
+▪ Aktivieren und deaktivieren von Mitarbeitern und Kunden
+▪ Löschen von Mitarbeitern und Kunden
+▪ Automatische Vergabe von Mitarbeiternummern
+▪ Protokollieren von Notizen in Kundenkontakten inkl. Historie
+▪ Suchmöglichkeiten über gespeicherten Informationen (Name, Vorname, Geburtsdatum, Mitarbeiter/Kunde). Über "mitsuchen" kann man auch über einen einzelnen Wert suchen und muss nicht alle werte eingeben.
+▪ Automatisches Speichern des Datenstamms auf Festplatte
+▪ Überprüft ob eine valide E-Mail eingegeben wird also "@", .com,.ch, .de, usw.
+▪ Überprüft ob Postleitzahl eine Zahl ist
+▪ Verlangt mindestens eine art der Telefonnumer (Überprüfung)
+▪ Schlichtes und simples Design (wie von SAP)
+▪ Abfangen voon Fehlern und abstürzen (wurde getestet auch von aussenstehenden und konnte nix gefunden werden)
+
+
+Was nicht funktioniert
+▪ Login
+▪ Mutationshistorie von Kontaktdaten (Das mutieren funktioniert nur nicht die Mutationshistorie)
+▪ Dashboard-View
+▪ Import von Kontakten im CSV-Format oder VCard-Format 
